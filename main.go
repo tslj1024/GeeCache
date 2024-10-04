@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"lru"
+	"geecache/lru"
 )
 
 type String string
